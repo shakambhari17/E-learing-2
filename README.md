@@ -3,16 +3,7 @@
 *NAME*: Shakambhari shrivastav     
 *INTERN ID*: CT08RJS       
 *DOMAIN*: FRONTED END DEVELOPER       
-*DURATION*: 4 WEEKS      
-## CODE DESCRIPTION OR WEBSITE       
-Features:     
-1. Quiz Interface :     
-   -> The homepage displays a "Quiz" title.        
-   -> A single question appears at a time with four answer options..      
-   -> Users can select an answer and submit their response.
-   
- Functionality:
-Overview
+*DURATION*: 4 WEEKS     
 Title: E-Learning Platform
 Tech Stack: HTML, CSS, JavaScript
 Purpose: Provide online courses with progress tracking and a user-friendly interface.
